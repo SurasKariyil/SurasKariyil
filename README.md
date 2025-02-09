@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/suras-kariyil-13b359284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suras-kariyil" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23181317/suras-kariyil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="suras-kariyil" height="30" width="40" /></a>
-<a href="https://instagram.com/__.ss._.956" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.ss._.956" height="30" width="40" /></a>
+<a href="https://instagram.com/suras.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suras.__" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCVgBKZ1p48yyQK23GNzDDTA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="suras-kariyil" height="30" width="40" /></a>
 </p>
 
